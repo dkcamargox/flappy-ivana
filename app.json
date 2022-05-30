@@ -28,6 +28,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Flappy bird but its ivana",
+    "githubUrl": "https://github.com/dkcamargox/flappy-ivana"
   }
 }
